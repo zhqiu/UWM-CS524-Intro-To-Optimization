@@ -7,7 +7,7 @@ In this repository, you can see all course slides and my howework. I hope they c
 My homework in cs524, written in Julia and Python.  
 
 It contains 10 homework:  
->  Homework1: Linear programs      
+>  Homework1: Linear programs      <br/>
 >  Homework2: More Linear programs    
 >  Homework3: Minimax and network flows  
 >  Homework4: Duality  
